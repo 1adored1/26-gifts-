@@ -1,4 +1,4 @@
-f = open('26.txt')
+f = open('')
 n = int(f.readline())
 a = sorted([int(x) for x in f], reverse=True)
 count = 1
